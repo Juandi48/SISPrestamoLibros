@@ -1,0 +1,3 @@
+Comandos ejecucion:
+Receptor: ./receptor -p /tmp/pipe_biblioteca -f bd.txt -s salida.txt -v
+Solicitante: ./solicitante -p /tmp/pipe_biblioteca
